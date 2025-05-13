@@ -1,0 +1,201 @@
+id_venda,data,cliente,produto,quantidade,preco,regiao
+1,2025-02-14,João Pedro,Monitor,2,1940.64,Sul
+2,2025-01-14,Caroline,Teclado,1,230.29,Sudeste
+3,2025-04-22,Pietro,Mouse,4,437.88,Centro-Oeste
+4,2025-05-03,Luiz Miguel,Notebook,3,2968.72,Centro-Oeste
+5,2025-01-02,Felipe,Teclado,1,3846.88,Nordeste
+6,2025-01-20,Ana Clara,Monitor,4,4148.28,Centro-Oeste
+7,2025-04-16,Heitor,Mouse,2,4338.59,Sudeste
+8,2024-12-01,Pedro Miguel,Mouse,4,2331.1,Centro-Oeste
+9,2025-03-16,Bryan,Headset,3,3439.77,Nordeste
+10,2025-01-14,Calebe,Mouse,4,712.04,Norte
+11,2025-05-04,Julia,Notebook,1,2223.69,Nordeste
+12,2025-01-29,Emanuella,Monitor,3,903.65,Norte
+13,2025-02-06,Yasmin,Teclado,5,1742.54,Nordeste
+14,2025-01-30,Enzo Gabriel,Teclado,2,812.34,Centro-Oeste
+15,2025-01-11,Ana Vitória,Monitor,4,3033.15,Sudeste
+16,2025-05-07,Natália,Headset,3,3805.68,Sul
+17,2025-04-12,Gabriel,Monitor,1,617.02,Norte
+18,2024-11-16,Luiz Gustavo,Cadeira Gamer,3,3996.18,Sul
+19,2025-03-20,Isadora,Notebook,3,2863.39,Centro-Oeste
+20,2025-04-12,Ana Carolina,Notebook,1,3308.19,Norte
+21,2025-04-25,Laura,Notebook,4,4174.3,Centro-Oeste
+22,2025-04-07,Sophia,Mouse,3,4291.31,Nordeste
+23,2025-03-10,Bruna,Notebook,1,1749.27,Norte
+24,2025-05-03,Clarice,Teclado,3,4486.04,Sul
+25,2025-04-11,Ana Carolina,Monitor,4,1217.57,Nordeste
+26,2024-11-27,Nicole,Monitor,1,1038.96,Sul
+27,2025-01-31,Luiz Henrique,Monitor,1,2529.84,Sudeste
+28,2025-02-20,Daniela,Teclado,5,3506.01,Centro-Oeste
+29,2024-11-28,Luana,Mouse,1,2896.04,Sudeste
+30,2025-05-03,Lavínia,Cadeira Gamer,5,2817.11,Centro-Oeste
+31,2025-03-13,Isabella,Teclado,3,2478.53,Nordeste
+32,2025-03-12,Kaique,Teclado,1,2009.14,Sudeste
+33,2024-12-19,Lavínia,Headset,5,1851.09,Sudeste
+34,2025-04-28,Gabriela,Notebook,3,2749.37,Sudeste
+35,2025-04-17,Isabelly,Mouse,2,1073.12,Nordeste
+36,2025-04-14,Vinicius,Headset,3,1473.98,Sul
+37,2025-03-16,Thomas,Webcam,4,4545.22,Nordeste
+38,2024-11-23,Emanuella,Mouse,1,1302.4,Norte
+39,2025-03-08,João Vitor,Monitor,3,1272.71,Sul
+40,2025-03-31,Lorenzo,Notebook,2,1031.66,Sudeste
+41,2025-03-23,Daniela,Teclado,5,3320.55,Centro-Oeste
+42,2025-03-25,Davi Lucca,Notebook,4,3420.92,Sul
+43,2025-01-09,Gabriel,Webcam,5,4180.86,Nordeste
+44,2024-12-12,Melissa,Notebook,3,1608.59,Sul
+45,2025-03-08,Natália,Cadeira Gamer,4,3518.24,Nordeste
+46,2025-01-25,Davi Luiz,Monitor,4,1624.27,Sudeste
+47,2025-03-05,Maria Sophia,Webcam,3,3163.85,Nordeste
+48,2025-01-20,Caroline,Headset,4,1885.95,Centro-Oeste
+49,2025-01-17,Ana Laura,Teclado,3,1908.42,Sudeste
+50,2025-01-30,Maitê,Teclado,2,700.04,Nordeste
+51,2025-02-16,Carolina,Teclado,5,2076.13,Centro-Oeste
+52,2024-11-21,Luiz Henrique,Cadeira Gamer,3,3134.22,Nordeste
+53,2025-05-08,Pedro Miguel,Teclado,3,3523.07,Nordeste
+54,2025-02-11,Larissa,Headset,3,554.51,Sudeste
+55,2024-12-16,Lavínia,Webcam,2,4780.79,Centro-Oeste
+56,2025-03-23,Davi,Notebook,5,3387.65,Centro-Oeste
+57,2025-02-03,Letícia,Notebook,3,4952.93,Norte
+58,2025-01-08,Sophia,Headset,1,167.31,Nordeste
+59,2025-02-01,Eloah,Webcam,5,1818.4,Centro-Oeste
+60,2025-01-11,Camila,Mouse,2,2702.58,Nordeste
+61,2025-04-09,Júlia,Mouse,5,4151.68,Sudeste
+62,2025-01-19,Juan,Mouse,3,4409.51,Sul
+63,2025-03-18,Isis,Notebook,4,3470.15,Sudeste
+64,2025-03-11,Igor,Monitor,1,3641.74,Centro-Oeste
+65,2025-01-19,Ian,Mouse,5,460.9,Sudeste
+66,2025-04-24,Raul,Mouse,3,2024.65,Norte
+67,2025-02-13,Lara,Webcam,5,4999.27,Norte
+68,2025-03-21,Lorena,Headset,2,4838.65,Centro-Oeste
+69,2025-02-05,Ana Clara,Headset,1,3314.79,Norte
+70,2025-02-04,Gustavo,Webcam,4,1176.75,Sudeste
+71,2025-04-21,Rebeca,Monitor,4,1596.14,Centro-Oeste
+72,2025-02-10,Ana Lívia,Monitor,3,957.41,Norte
+73,2024-11-17,Davi Luiz,Webcam,5,2438.42,Sul
+74,2025-01-25,Lívia,Teclado,3,653.02,Sul
+75,2025-03-20,Luiz Miguel,Mouse,1,2598.74,Sul
+76,2025-02-06,Enzo Gabriel,Cadeira Gamer,3,1031.62,Norte
+77,2025-04-12,Maitê,Headset,2,2483.18,Centro-Oeste
+78,2024-11-16,Yago,Headset,3,2959.14,Norte
+79,2025-04-06,Bruna,Headset,2,763.78,Sudeste
+80,2024-12-14,Joana,Monitor,3,4524.04,Centro-Oeste
+81,2024-12-13,Ana Carolina,Webcam,2,1203.9,Sul
+82,2025-02-15,Marcelo,Cadeira Gamer,1,1797.52,Nordeste
+83,2025-04-08,Pietro,Monitor,5,708.95,Nordeste
+84,2024-11-12,Pedro Henrique,Notebook,4,929.88,Nordeste
+85,2024-11-27,Isabelly,Monitor,1,2112.1,Sudeste
+86,2025-03-13,Thales,Cadeira Gamer,4,4507.45,Sul
+87,2025-04-14,Ana Julia,Mouse,1,4452.61,Sudeste
+88,2025-01-27,Catarina,Headset,2,4907.14,Nordeste
+89,2025-04-25,Luigi,Headset,1,514.47,Sul
+90,2025-03-29,Gustavo Henrique,Teclado,2,2804.41,Norte
+91,2025-03-12,Thales,Mouse,1,1619.38,Sudeste
+92,2025-04-16,Mariane,Mouse,1,1298.66,Centro-Oeste
+93,2024-12-26,Yago,Cadeira Gamer,4,4879.28,Centro-Oeste
+94,2025-01-05,Vitor Hugo,Teclado,5,168.12,Norte
+95,2024-12-27,Samuel,Cadeira Gamer,2,979.39,Centro-Oeste
+96,2025-01-21,Eduardo,Cadeira Gamer,5,2283.12,Norte
+97,2025-04-07,Joana,Teclado,1,1155.44,Centro-Oeste
+98,2025-05-11,Nicole,Notebook,3,2687.46,Sudeste
+99,2025-01-16,Emanuel,Mouse,5,4839.51,Sudeste
+100,2024-12-26,Fernando,Notebook,2,4553.99,Nordeste
+101,2025-04-28,Cauã,Mouse,3,4241.36,Sul
+102,2025-02-14,Natália,Monitor,1,1519.65,Norte
+103,2025-04-08,Larissa,Webcam,4,3790.01,Sul
+104,2024-12-17,Nathan,Mouse,3,3063.27,Sul
+105,2025-03-13,Davi Lucas,Monitor,1,4267.76,Nordeste
+106,2024-11-29,João Pedro,Monitor,5,4153.86,Norte
+107,2024-11-28,Thiago,Webcam,1,131.61,Norte
+108,2025-02-10,Sabrina,Cadeira Gamer,3,3139.2,Nordeste
+109,2025-04-18,Sabrina,Mouse,4,2943.64,Centro-Oeste
+110,2025-02-24,Lorena,Mouse,2,2077.95,Sudeste
+111,2025-02-01,Maria,Cadeira Gamer,1,1430.75,Sudeste
+112,2025-02-18,Marcos Vinicius,Webcam,3,676.29,Nordeste
+113,2024-11-26,Danilo,Cadeira Gamer,4,4694.07,Norte
+114,2024-11-28,Cauã,Mouse,2,426.96,Nordeste
+115,2025-01-30,Juan,Mouse,3,4380.06,Sul
+116,2025-03-16,Marcela,Webcam,4,218.38,Nordeste
+117,2025-02-01,Maria,Cadeira Gamer,3,4615.98,Sul
+118,2025-02-11,Julia,Headset,4,579.24,Sul
+119,2025-03-15,Vinicius,Cadeira Gamer,3,2019.04,Nordeste
+120,2025-02-18,Kevin,Mouse,4,331.99,Sudeste
+121,2025-01-01,Noah,Mouse,4,1327.12,Sul
+122,2025-02-05,Maitê,Cadeira Gamer,4,1316.37,Centro-Oeste
+123,2025-01-24,Gabriela,Monitor,1,1978.63,Centro-Oeste
+124,2024-12-12,Vitória,Cadeira Gamer,5,1619.23,Sul
+125,2024-11-26,Bernardo,Headset,4,4362.71,Sul
+126,2024-11-25,João Guilherme,Headset,4,3381.7,Centro-Oeste
+127,2025-02-07,Yago,Notebook,4,3053.18,Sul
+128,2024-12-21,Ana Julia,Monitor,4,3907.68,Sul
+129,2025-04-10,Julia,Notebook,1,1199.18,Sul
+130,2025-03-06,João Lucas,Monitor,2,1527.0,Nordeste
+131,2025-03-22,Sophie,Notebook,1,3063.61,Centro-Oeste
+132,2025-01-09,Pietra,Teclado,1,4644.66,Norte
+133,2024-12-28,Sophie,Notebook,5,4205.99,Norte
+134,2025-02-23,Ana Clara,Teclado,4,2484.8,Sul
+135,2025-02-01,Kaique,Mouse,2,1982.51,Sudeste
+136,2025-04-08,Nicolas,Notebook,4,4299.45,Sul
+137,2025-02-05,João Pedro,Webcam,4,2132.2,Centro-Oeste
+138,2025-03-30,Ana Beatriz,Cadeira Gamer,1,1197.07,Sul
+139,2025-01-01,Camila,Mouse,3,3686.61,Nordeste
+140,2025-01-07,Elisa,Cadeira Gamer,4,3570.33,Sul
+141,2025-03-09,Julia,Mouse,1,4191.14,Nordeste
+142,2025-04-01,Davi Lucas,Teclado,4,2664.95,Norte
+143,2024-11-25,Bryan,Monitor,5,3259.83,Centro-Oeste
+144,2024-11-14,Valentina,Notebook,3,4142.72,Nordeste
+145,2025-02-01,Danilo,Mouse,5,2423.79,Nordeste
+146,2025-02-22,Rafaela,Headset,1,1670.44,Sudeste
+147,2024-12-10,Gustavo Henrique,Notebook,5,990.07,Centro-Oeste
+148,2024-11-30,Vinicius,Webcam,4,848.47,Nordeste
+149,2025-04-13,Isadora,Cadeira Gamer,4,521.82,Sudeste
+150,2025-01-18,Maitê,Webcam,4,4784.12,Centro-Oeste
+151,2025-01-24,Samuel,Notebook,3,732.03,Sul
+152,2025-03-07,Amanda,Headset,5,2076.08,Sul
+153,2025-03-30,Nicolas,Teclado,3,4563.05,Norte
+154,2024-12-29,Letícia,Teclado,1,2718.8,Sudeste
+155,2025-02-27,Theo,Webcam,5,4385.39,Norte
+156,2024-12-23,Enrico,Headset,3,4141.03,Centro-Oeste
+157,2025-05-07,Isabelly,Cadeira Gamer,5,4391.71,Sul
+158,2025-03-04,Davi Lucas,Monitor,4,2580.81,Norte
+159,2025-03-28,Eloah,Webcam,2,4279.8,Nordeste
+160,2025-01-01,Gabriela,Mouse,1,2753.0,Centro-Oeste
+161,2024-12-12,Isabella,Headset,1,2492.52,Sudeste
+162,2024-12-18,Arthur,Teclado,1,1257.34,Sul
+163,2025-02-01,Luigi,Monitor,1,3417.47,Nordeste
+164,2025-01-30,Davi Lucca,Cadeira Gamer,1,3664.99,Norte
+165,2025-01-16,Maria,Cadeira Gamer,2,4034.24,Norte
+166,2025-04-20,Bryan,Mouse,1,461.83,Centro-Oeste
+167,2025-03-28,João Felipe,Notebook,2,4539.09,Norte
+168,2025-01-19,Noah,Monitor,1,2196.21,Nordeste
+169,2024-12-22,Cecília,Headset,4,3411.33,Centro-Oeste
+170,2024-12-16,Ryan,Teclado,2,422.03,Nordeste
+171,2024-11-22,Lívia,Webcam,5,988.2,Centro-Oeste
+172,2025-04-30,Luiz Henrique,Teclado,4,3292.05,Norte
+173,2025-01-08,Sophia,Notebook,2,2344.64,Norte
+174,2024-11-25,Cauê,Headset,3,3059.67,Centro-Oeste
+175,2025-04-25,Guilherme,Headset,2,1697.74,Centro-Oeste
+176,2025-04-01,Agatha,Cadeira Gamer,2,1917.6,Sudeste
+177,2025-01-14,Eduardo,Mouse,3,4545.35,Norte
+178,2024-12-11,Melissa,Cadeira Gamer,4,3558.24,Sul
+179,2025-04-09,Breno,Webcam,3,1769.84,Nordeste
+180,2024-12-31,Sophie,Teclado,2,3548.99,Nordeste
+181,2025-02-16,João Pedro,Cadeira Gamer,3,4737.63,Norte
+182,2025-04-22,João Lucas,Monitor,1,2660.96,Sudeste
+183,2025-03-01,Isabella,Headset,1,3269.5,Norte
+184,2024-12-07,Raquel,Headset,1,3102.22,Sudeste
+185,2025-02-10,João Pedro,Cadeira Gamer,4,1195.8,Sul
+186,2025-01-14,Luana,Cadeira Gamer,5,866.36,Centro-Oeste
+187,2024-11-13,Yuri,Mouse,1,2947.36,Sul
+188,2025-04-18,Murilo,Headset,4,3774.57,Sudeste
+189,2025-01-14,Lorena,Mouse,2,881.82,Centro-Oeste
+190,2025-01-15,Juliana,Webcam,5,2623.38,Norte
+191,2024-11-30,Valentina,Cadeira Gamer,2,3429.5,Nordeste
+192,2025-01-15,Diogo,Cadeira Gamer,4,3702.73,Nordeste
+193,2025-05-08,Sabrina,Webcam,4,379.36,Centro-Oeste
+194,2024-12-23,Clara,Teclado,1,1157.49,Norte
+195,2025-04-02,Esther,Teclado,1,146.97,Norte
+196,2025-04-02,Samuel,Monitor,2,1374.0,Nordeste
+197,2025-01-18,Laura,Webcam,4,695.18,Sudeste
+198,2025-02-20,Ana Julia,Cadeira Gamer,1,3976.88,Centro-Oeste
+199,2024-12-18,Anthony,Cadeira Gamer,1,3929.35,Sudeste
+200,2024-12-23,Eduardo,Teclado,4,400.98,Centro-Oeste
