@@ -7,7 +7,7 @@ Este projeto realiza um processo completo de ETL com Python e pandas, carrega os
 ## 📁 Estrutura do Projeto
 
 ```
-etl_sales_insights_v2/
+etl_sales_insights/
 ├── raw/             # CSV original gerado com dados fictícios
 ├── ready/           # CSV tratado após o ETL
 ├── src/
