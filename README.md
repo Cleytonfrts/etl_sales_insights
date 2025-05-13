@@ -1,4 +1,4 @@
-# 📊 Projeto ETL Sales Insights (v2)
+# 📊 Projeto ETL Sales Insights
 
 Este projeto realiza um processo completo de ETL com Python e pandas, carrega os dados em um banco MySQL, exporta os dados tratados e exibe uma dashboard interativa com Streamlit e Plotly.
 
